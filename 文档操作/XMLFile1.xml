@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<xmlfile>
+  <ziduan>
+    <id>1</id>
+    <name loag="ca1">文件1</name>
+    <num>10</num>
+  </ziduan>
+  <ziduan>
+    <id>2</id>
+    <name loag="ca2">文件2</name>
+    <num>20</num>
+  </ziduan>
+  <ziduan>
+    <id>3</id>
+    <name loag="ca3">文件3</name>
+    <num>30</num>
+  </ziduan>
+
+</xmlfile>
